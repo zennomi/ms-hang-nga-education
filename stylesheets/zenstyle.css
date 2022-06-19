@@ -1,0 +1,11 @@
+.text-pink {
+  color: #f3728b;
+}
+
+.title-hero {
+  color: rgb(255, 255, 255);
+  /* -webkit-text-stroke: 2px #f3728b; */
+  text-shadow: -2px -2px 0 #f3728b, 2px -2px 0 #f3728b, -2px 2px 0 #f3728b,
+    2px 2px 0 #f3728b;
+  -webkit-font-smoothing: antialiased;
+}

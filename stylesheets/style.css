@@ -3663,7 +3663,6 @@ h6 a {
     display: flex;
     align-items: center;
     flex-direction: column;
-    min-height: 240px;
 }
 
 .contact-card-top .contact-icon {

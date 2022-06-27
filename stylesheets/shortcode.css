@@ -363,8 +363,8 @@
 	content: "\f098";
 }
 
-.flat-info ul li.mail:before {
-	content: "\f0e0";
+.flat-info ul li.address:before {
+	content: "\f041";
 }
 
 .top .flat-info {
